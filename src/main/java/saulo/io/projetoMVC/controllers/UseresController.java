@@ -17,7 +17,7 @@ import saulo.io.projetoMVC.repository.UseresRepository;
  * realizada no seu código Java. O @RequestMapping permite que você faça essa
  * correspondência.
  * 
- * @author EDS
+ * @author EDS SAULO COSTA
  *
  */
 
